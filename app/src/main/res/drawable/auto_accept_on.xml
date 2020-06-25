@@ -1,0 +1,12 @@
+package com.itridtechnologies.networkpackages.Models;
+
+    public class telenorOffers {
+
+    private MasterModel model[];
+
+    public MasterModel[] initOffersTelenorModel() {
+
+    model = new MasterModel[18];
+
+    //0model[0].setTitle("Monthly Facebook & WhatsApp Offer");model[0].setPrice(38.47);model[0].setDescription("Internet 100MB + Facebook & WhatsApp 3000MB");model[0].setDetail("Telenor Brings You The Best-In-Class 4G With Better Speed And Affordable Rates" +
+            

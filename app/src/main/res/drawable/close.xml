@@ -1,0 +1,12 @@
+package com.itridtechnologies.networkpackages.Models;
+
+    public class telenor3G4G {
+
+    private MasterModel model[];
+
+    public MasterModel[] initTelenorInternetModel() {
+
+    model = new MasterModel[32];
+
+    //1model[0].setTitle("Monthly Facebook & WhatsApp Offer");model[0].setPrice(44.45);model[0].setDescription("Facebook & WhatsApp 3000MB, Internet 100MB");
+     

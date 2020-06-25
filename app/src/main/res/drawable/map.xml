@@ -1,0 +1,11 @@
+package com.itridtechnologies.networkpackages.Views;
+
+    import android.os.Bundle;import android.view.LayoutInflater;import android.view.View;import android.view.ViewGroup;
+
+    import androidx.annotation.NonNull;import androidx.annotation.Nullable;import androidx.fragment.app.Fragment;
+
+    import com.itridtechnologies.networkpackages.R;
+
+    public class frag_telenor_internet extends Fragment {
+
+    @Nullable@Overridepublic View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {return inflater.inflate(R.layout.frag_telenor_inte
